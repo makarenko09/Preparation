@@ -1,4 +1,4 @@
-public class Task {
+public class TaskExc {
     public static void main(String[] args) {
     //Задача
     //Напишите пример перехвата и обработки исключения с использованием собственных исключений.
